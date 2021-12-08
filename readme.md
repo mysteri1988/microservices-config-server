@@ -1,2 +1,2 @@
-# CustomerTrackerApp
-Simple customer application with spring mvc and hibernate 
+# Connfiguration repository
+Configuration repository for my own microservices
